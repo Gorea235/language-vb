@@ -1,6 +1,7 @@
 comment: "Originally converted from the textmate ASP.VB.Net bundle. Modified my Luke Davies."
 fileTypes: [
-  "vb"
+  "vb",
+  "bas"
 ]
 name: "VB.NET"
 patterns: [
